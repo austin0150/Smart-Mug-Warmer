@@ -1,7 +1,14 @@
 # Smart-Mug-Warmer
-C program that will run my Arduino smart mug warmer
+A "smart" mug warmer, that detects presence of a mug, and its tempurature.  
+Powered by C, on an arduino pro-mini.  
+  
+### How  
+Power to the mug warmer is controlled via a relay in the control box on the back of the cardboard. The relay is controlled by
+an arduino pro-mini. The arduio will allow the mug warmer to turn on if it detects a mug (using the ultrasonic sensor) and if 
+it detects that the coffee in the mug is too cold (using the infrared thermometer).
 
-![mug1](Images/3.jpg)
+![mug3](Images/3.jpg)
+![mug1](Images/1.jpg)
 
 ### Why  
 I wanted to learn to use arduino and an embedded project seemed like a fun project to try.  
@@ -11,3 +18,5 @@ in a project.
 
 ## Wiring
 ![wiring](Images/MugWarmer.png)
+![box](Images/2.jpg)
+
