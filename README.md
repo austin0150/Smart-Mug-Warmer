@@ -9,7 +9,7 @@ it detects that the coffee in the mug is too cold (using the infrared thermomete
 
 ## Why  
 I wanted to learn to use arduino and an embedded project seemed like a fun project to try.  
-I (someone who drinks a lot of coffee) thought this would be useful.
+I (someone who drinks a lot of coffee) thought this would be useful for my daily life.
 Obviously this isn't meant to last forever, its mostly made of cardboard. But it gave me a chance to use 3d printed parts
 in a project.
 
@@ -21,5 +21,5 @@ in a project.
 ![wiring](Images/MugWarmer.png)
 ![box](Images/2.jpg)  
 
-If you are interested in building something similar, the stand-off I made for the ultrasonic sensor can be found here:  
+If you are interested in building something similar, the stand-off I made for the ultrasonic sensor can be found here on Thingiverse:  
 https://www.thingiverse.com/thing:4086316
